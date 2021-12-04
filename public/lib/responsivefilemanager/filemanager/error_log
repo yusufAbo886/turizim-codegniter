@@ -1,0 +1,8 @@
+[15-Jun-2021 16:09:48 Europe/Rome] PHP Warning:  scandir(../../../source/): failed to open dir: No such file or directory in /home/u0173496/public_html/public1/lib/responsivefilemanager/filemanager/dialog.php on line 636
+[15-Jun-2021 16:09:48 Europe/Rome] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/u0173496/public_html/public1/lib/responsivefilemanager/filemanager/dialog.php on line 636
+[15-Jun-2021 16:09:48 Europe/Rome] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u0173496/public_html/public1/lib/responsivefilemanager/filemanager/dialog.php on line 639
+[15-Jun-2021 16:09:48 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/u0173496/public_html/public1/lib/responsivefilemanager/filemanager/dialog.php on line 648
+[15-Jun-2021 16:09:48 Europe/Rome] PHP Notice:  Undefined variable: files_prevent_duplicate in /home/u0173496/public_html/public1/lib/responsivefilemanager/filemanager/dialog.php on line 1351
+[15-Jun-2021 16:09:48 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/u0173496/public_html/public1/lib/responsivefilemanager/filemanager/dialog.php on line 1351
+[06-Aug-2021 10:53:59 Europe/Rome] PHP Notice:  Trying to access array offset on value of type null in /home/du3n9lxhk0f1/public_html/public/lib/responsivefilemanager/filemanager/UploadHandler.php on line 497
+[06-Aug-2021 10:53:59 Europe/Rome] PHP Notice:  Trying to access array offset on value of type null in /home/du3n9lxhk0f1/public_html/public/lib/responsivefilemanager/filemanager/UploadHandler.php on line 1442
